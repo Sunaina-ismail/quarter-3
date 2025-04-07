@@ -1,0 +1,10 @@
+[project]
+name = "projects-to-be-submitted"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.uv.workspace]
+members = ["madlib", "09_streamlit-python-website", "09_python_streamlit_website", "09_python_streamlit_website"]

@@ -1,0 +1,9 @@
+[
+    {
+        "title": "atomic habits",
+        "author": "james clear",
+        "year": 2018,
+        "genre": "self_help",
+        "read": true
+    }
+]
